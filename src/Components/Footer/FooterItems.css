@@ -1,0 +1,54 @@
+.Footer-bg {
+  background-color: #212121;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 100%;
+  color: #f5f5f5;
+  text-align: left;
+}
+.footer-conatiner {
+  padding: 5%;
+}
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tr {
+  text-align: left;
+  padding: 80px;
+}
+.data {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  padding: 2%;
+  color: #ebebeb;
+}
+.data-1 {
+  list-style-type: none;
+}
+.data-1 li {
+  padding: 8px;
+}
+.customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 16px;
+}
+
+.customers td,
+.customers th {
+  padding: 8px;
+}
+.contact-sec {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+}
+.company-contact {
+  padding: 40px;
+  color: #ebebeb;
+}

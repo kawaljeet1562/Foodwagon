@@ -1,0 +1,17 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5% 13%;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 206, 103, 0.22) -42.47%,
+    rgba(253, 237, 202, 0) 100%
+  );
+  gap: 60px;
+}
+.order-container {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}

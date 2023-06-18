@@ -1,0 +1,61 @@
+.app-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+}
+.mob-phone {
+  display: flex;
+  flex-direction: row;
+}
+
+.install-info h2 {
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 106%;
+  margin: 0px;
+
+  background: linear-gradient(92.84deg, #ffb800 -47.72%, #ff8a00 136.81%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.install-info p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  text-align: left;
+  color: #827e7e;
+}
+.app-icon {
+  display: flex;
+  flex-direction: row;
+}
+.phone2 {
+  position: absolute;
+  width: 268.97px;
+  height: 443.97px;
+
+  left: 417.87px;
+  top: 26.5px;
+  z-index: 1;
+  border-radius: 50.7892px;
+}
+.phone1 {
+  position: absolute;
+  width: 268.97px;
+
+  height: 359.97px;
+
+  left: 186px;
+  top: 109.5px;
+}
+.install-info {
+  flex-direction: column;
+  display: flex;
+  width: 27%;
+  padding: 10% 1%;
+}
+.app-logo {
+  height: 100px;
+}

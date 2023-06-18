@@ -1,0 +1,24 @@
+.order-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.Order-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.title {
+  color: #434343;
+}
+.features {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #9e9e9e;
+}
+.food-icon {
+  width: 75px;
+  height: 101px;
+}

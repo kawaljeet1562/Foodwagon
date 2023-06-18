@@ -1,0 +1,11 @@
+.fooditems-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.food-info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 20px;
+}

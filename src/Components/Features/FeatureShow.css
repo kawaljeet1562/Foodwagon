@@ -1,0 +1,26 @@
+.features-show {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+.feature-img {
+  width: 100px;
+  height: 100px;
+}
+.feature-title {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 120%;
+
+  background: linear-gradient(92.84deg, #fb3c00 -47.72%, #ffb800 136.81%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  /* text-fill-color: transparent; */
+}
+.grey-line {
+  width: 2px;
+  height: 96px;
+
+  background: #cfcfcf;
+}

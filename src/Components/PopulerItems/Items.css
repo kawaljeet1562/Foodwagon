@@ -1,0 +1,14 @@
+.food-items {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  font-size: 18px;
+}
+.food-img {
+  width: 212px;
+  height: 212px;
+  border-radius: 16px;
+}
+.location {
+  color: #ffb30e;
+}

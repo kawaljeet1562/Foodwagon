@@ -1,0 +1,11 @@
+.main-restaurents {
+  padding: 5% 10%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.restaurents-container {
+  display: grid;
+
+  grid-template-columns: 25% 25% 25% 25%;
+}

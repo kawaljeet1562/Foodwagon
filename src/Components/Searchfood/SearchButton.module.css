@@ -1,0 +1,24 @@
+.buttn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 56px;
+  height: 56px;
+  color: white;
+  background: #ffb30e;
+  border: 1px solid #faaa01;
+
+  box-shadow: 0px 5px 8px rgba(222, 151, 0, 0.24),
+    0px 14px 32px rgba(255, 178, 14, 0.29);
+  border-radius: 92px;
+}
+.buttn:hover,
+.buttn:active {
+  background: #f172281a;
+  color: #f17228;
+}
+.buttn:focus {
+  outline: none;
+}

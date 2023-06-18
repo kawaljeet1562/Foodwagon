@@ -1,0 +1,10 @@
+.main-heading {
+  font-weight: 700;
+  font-size: 43px;
+  line-height: 112%;
+  /* or 48px */
+
+  text-align: center;
+
+  color: #f17228;
+}
